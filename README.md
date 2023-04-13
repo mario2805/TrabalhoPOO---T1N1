@@ -1,7 +1,7 @@
 # TrabalhoPOO - T1N1
 > Listas de exercício em Java para a disciplina de Programação Orientada à Objetos. Feitas no programa Eclipse.
 
-- **Nome completo:** Gabriel Ferreira 
+- **Nome completo:** Gabriel Ferreira Do Monte
 - **Nome completo:** Mário Soares Néo
 - **Curso:** Técnico Integrado em Informática
 - **Turno:** Integral
